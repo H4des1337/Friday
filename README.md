@@ -1,6 +1,6 @@
 <h2 align="center"><u>Friday</u></h2>
 
-![An smart Desktop Assistant](images/banner.png)
+![A smart Desktop Assistant](images/banner.png)
 <h4 align="center"> An smart Desktop Assistant </h4>
 
 <p align="center">
